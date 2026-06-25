@@ -1,104 +1,55 @@
-# 👋 Hi, I'm Sabuha Hanif
+<h1 align="center">👋 Hi, I'm Sabuha Hanif</h1>
 
-### 💻 Web Developer | Problem Solver | Building Modern Websites
+<h3 align="center">💻 Full Stack Web Developer | 🚀 Freelancer | 🌐 Building Modern Web Experiences</h3>
 
-Welcome to my GitHub profile!
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Web+Developer;Responsive+Website+Specialist;Building+Modern+Digital+Solutions;Always+Learning+Something+New" />
+</p>
 
-I am a passionate web developer focused on creating modern, responsive, and user-friendly websites that help businesses establish a strong online presence. I enjoy turning ideas into functional, attractive, and high-performing web applications.
-
----
-
-## 🚀 What I Do
-
-🔹 Custom Website Development
-
-🔹 Responsive Web Design
-
-🔹 Landing Pages
-
-🔹 Business Websites
-
-🔹 Front-End Development
-
-🔹 Back-End Development
-
-🔹 Website Optimization & Maintenance
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SabuhaHanif&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🛠️ Technologies & Tools
+### 🚀 About Me
 
-### Frontend
+✨ Passionate Web Developer
 
-* HTML5
-* CSS3
-* JavaScript
-* Responsive Design
+🌍 Creating modern, responsive, and user-friendly websites
 
-### Backend
+📚 Continuously learning new technologies
 
-* Node.js
-* Express.js
-
-### Database
-
-* MongoDB
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
+🎯 Focused on delivering high-quality digital solutions
 
 ---
 
-## 📌 Featured Projects
+### 🛠️ Tech Stack
 
-### 🏗 Construction Company Website
-
-A professional business website designed to showcase services, projects, and contact information.
-
-### 🏠 Real Estate Website
-
-A modern property listing platform with responsive design and intuitive navigation.
-
-### 🍽 Restaurant Website
-
-A visually appealing website featuring menus, reservations, and customer engagement features.
-
-### 🎨 Personal Portfolio
-
-A professional portfolio website showcasing skills, projects, and development experience.
+HTML5 • CSS3 • JavaScript • Node.js • Git • GitHub • VS Code
 
 ---
 
-## 🌱 Currently Learning
+### 📊 GitHub Statistics
 
-* Advanced JavaScript
-* React
-* Modern Backend Architecture
-* API Integrations
-* Performance Optimization
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SabuhaHanif\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabuhaHanif\&layout=compact)
 
 ---
 
-## 🎯 My Goal
+### 🌟 Featured Projects
 
-To build websites that are not only visually appealing but also deliver real business value through performance, usability, and clean development practices.
+🏗 Construction Company Website
 
----
+🏠 Real Estate Website
 
-## 📊 GitHub Activity
+🎨 Personal Portfolio Website
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+🌐 Business Landing Pages
 
 ---
 
-## 🤝 Let's Connect
+### 🤝 Connect & Collaborate
 
-I am always open to collaborating on exciting projects, freelance opportunities, and innovative ideas.
-
-⭐ Feel free to explore my repositories and follow my development journey.
-
+⭐ Explore my repositories and follow my development journey!
